@@ -34,6 +34,7 @@
     "@babel/preset-env": "^7.19.4",
     "@babel/preset-typescript": "^7.18.6",
     "@types/node": "^18.11.9",
+    "assert": "^2.0.0",
     "babel-loader": "^8.2.3",
     "copy-webpack-plugin": "^10.2.0",
     "core-js": "^3.20.1",

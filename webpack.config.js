@@ -24,6 +24,7 @@ module.exports = {
       zlib: false,
       http: false,
       url: false,
+      assert: require.resolve("assert/"),
     },
   },
   module: {
